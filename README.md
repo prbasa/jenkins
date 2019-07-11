@@ -28,6 +28,8 @@ Follow the [contributing](CONTRIBUTING.md) file.
 # News and Website
 All information about Jenkins can be found on our [website]. Follow us on Twitter [@jenkinsci].
 
+teste
+
 # License
 Jenkins is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
